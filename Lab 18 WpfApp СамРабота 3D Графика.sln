@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 18 WpfApp СамРабота 3D Графика", "Lab 18 WpfApp СамРабота 3D Графика.csproj", "{D7124BD3-E192-4188-BDFB-4C0AF86C08EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7124BD3-E192-4188-BDFB-4C0AF86C08EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7124BD3-E192-4188-BDFB-4C0AF86C08EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7124BD3-E192-4188-BDFB-4C0AF86C08EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7124BD3-E192-4188-BDFB-4C0AF86C08EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11BAD708-D196-4CC8-988F-A978F73142D6}
+	EndGlobalSection
+EndGlobal
